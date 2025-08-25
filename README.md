@@ -35,62 +35,65 @@ git checkout HEAD -- abhishek-jha-certificate-jentic.pdf
 
 ---
 
-## Certificates (A–Z)
+## Participants & Certificates (A–Z)
 
 > Click any name to open/download the PDF.
 
-* [abhishek-jha-certificate-jentic.pdf](./abhishek-jha-certificate-jentic.pdf)
-* [adam-sever-autojob-certificate-jentic.pdf](./adam-sever-autojob-certificate-jentic.pdf)
-* [akankhya-singh-certificate-jentic.pdf](./akankhya-singh-certificate-jentic.pdf)
-* [andrzej-michalik-certificate-jentic.pdf](./andrzej-michalik-certificate-jentic.pdf)
-* [anna-savelyeva-certificate-jentic.pdf](./anna-savelyeva-certificate-jentic.pdf)
-* [anton-masalovich-certificate-jentic.pdf](./anton-masalovich-certificate-jentic.pdf)
-* [anupriya-tomar-certificate-jentic.pdf](./anupriya-tomar-certificate-jentic.pdf)
-* [aon-aon-safdar-certificate-jentic.pdf](./aon-aon-safdar-certificate-jentic.pdf)
-* [ashiq-mirzad-certificate-jentic.pdf](./ashiq-mirzad-certificate-jentic.pdf)
-* [con-kirby-certificate-jentic.pdf](./con-kirby-certificate-jentic.pdf)
-* [conor-mcleod-certificate-jentic.pdf](./conor-mcleod-certificate-jentic.pdf)
-* [daniel-delattre-certificate-jentic.pdf](./daniel-delattre-certificate-jentic.pdf)
-* [edwin-shibu-mathew-certificate-jentic.pdf](./edwin-shibu-mathew-certificate-jentic.pdf)
-* [evan-sonin-certificate-jentic.pdf](./evan-sonin-certificate-jentic.pdf)
-* [fintan-o-byrne-certificate-jentic.pdf](./fintan-o-byrne-certificate-jentic.pdf)
-* [gavin-holahan-certificate-jentic.pdf](./gavin-holahan-certificate-jentic.pdf)
-* [henrique-de-carvalho-certificate-jentic.pdf](./henrique-de-carvalho-certificate-jentic.pdf)
-* [ivo-brett-certificate-jentic.pdf](./ivo-brett-certificate-jentic.pdf)
-* [ivo-garais-certificate-jentic.pdf](./ivo-garais-certificate-jentic.pdf)
-* [jack-obrien-certificate-jentic.pdf](./jack-obrien-certificate-jentic.pdf)
-* [jude-mccrea-certificate-jentic.pdf](./jude-mccrea-certificate-jentic.pdf)
-* [juilan-schnitzler-certificate-jentic.pdf](./juilan-schnitzler-certificate-jentic.pdf)
-* [jurgen-leschner-certificate-jentic.pdf](./jurgen-leschner-certificate-jentic.pdf)
-* [lalith-varanasi-certificate-jentic.pdf](./lalith-varanasi-certificate-jentic.pdf)
-* [lucas-quintanilla-certificate-jentic.pdf](./lucas-quintanilla-certificate-jentic.pdf)
-* [maccollins-obijiaku-certificate-jentic.pdf](./maccollins-obijiaku-certificate-jentic.pdf)
-* [marjia-siddik-certificate-jentic.pdf](./marjia-siddik-certificate-jentic.pdf)
-* [mayank-sehrawat-certificate-jentic.pdf](./mayank-sehrawat-certificate-jentic.pdf)
-* [mayowa-akinlude-certificate-jentic.pdf](./mayowa-akinlude-certificate-jentic.pdf)
-* [niall-harrington-certificate-jentic.pdf](./niall-harrington-certificate-jentic.pdf)
-* [niveditha-thota-certificate-jentic.pdf](./niveditha-thota-certificate-jentic.pdf)
-* [oliver-hamilton-certificate-jentic.pdf](./oliver-hamilton-certificate-jentic.pdf)
-* [petr-pershin-certificate-jentic.pdf](./petr-pershin-certificate-jentic.pdf)
-* [pragya-tiwari-certificate-jentic.pdf](./pragya-tiwari-certificate-jentic.pdf)
-* [prakash-inani-certificate-jentic.pdf](./prakash-inani-certificate-jentic.pdf)
-* [pranav-ahire-certificate-jentic.pdf](./pranav-ahire-certificate-jentic.pdf)
-* [robert-oss-certificate-jentic.pdf](./robert-oss-certificate-jentic.pdf)  <!-- if this should be robert-ross, see Corrections -->
-* [rowan-molony-certificate-jentic.pdf](./rowan-molony-certificate-jentic.pdf)
-* [samson-oloruntola-certificate-jentic.pdf](./samson-oloruntola-certificate-jentic.pdf)
-* [sanidhya-arora-certificate-jentic.pdf](./sanidhya-arora-certificate-jentic.pdf)
-* [sebastian-kimmel-certificate-jentic.pdf](./sebastian-kimmel-certificate-jentic.pdf)
-* [sebastian-konefal-certificate-jentic.pdf](./sebastian-konefal-certificate-jentic.pdf)
-* [shuangning-wei-certificate-jentic.pdf](./shuangning-wei-certificate-jentic.pdf)
-* [shubbham-gupta-certificate-jentic.pdf](./shubbham-gupta-certificate-jentic.pdf)
-* [shubham-dalvi-certificate-jentic.pdf](./shubham-dalvi-certificate-jentic.pdf)
-* [steven-sim-certificate-jentic.pdf](./steven-sim-certificate-jentic.pdf)
-* [thomas-nolan-certificate-jentic.pdf](./thomas-nolan-certificate-jentic.pdf)
-* [tianyi-lin-certificate-jentic.pdf](./tianyi-lin-certificate-jentic.pdf)
-* [tyler-brady-certificate-jentic.pdf](./tyler-brady-certificate-jentic.pdf)
-* [yifan-chen-certificate-jentic.pdf](./yifan-chen-certificate-jentic.pdf)
-* [yuanhui-xu-certificate-jentic.pdf](./yuanhui-xu-certificate-jentic.pdf)
-* [yuwei-lin-certificate-jentic.pdf](./yuwei-lin-certificate-jentic.pdf)
+| Participant          | Certificate                                                        |
+| -------------------- | ------------------------------------------------------------------ |
+| Abhishek Jha         | [Certificate (PDF)](./abhishek-jha-certificate-jentic.pdf)         |
+| Adam Sever Autojob   | [Certificate (PDF)](./adam-sever-autojob-certificate-jentic.pdf)   |
+| Akankhya Singh       | [Certificate (PDF)](./akankhya-singh-certificate-jentic.pdf)       |
+| Andrzej Michalik     | [Certificate (PDF)](./andrzej-michalik-certificate-jentic.pdf)     |
+| Anna Savelyeva       | [Certificate (PDF)](./anna-savelyeva-certificate-jentic.pdf)       |
+| Anton Masalovich     | [Certificate (PDF)](./anton-masalovich-certificate-jentic.pdf)     |
+| Anupriya Tomar       | [Certificate (PDF)](./anupriya-tomar-certificate-jentic.pdf)       |
+| Aon Aon Safdar       | [Certificate (PDF)](./aon-aon-safdar-certificate-jentic.pdf)       |
+| Ashiq Mirzad         | [Certificate (PDF)](./ashiq-mirzad-certificate-jentic.pdf)         |
+| Con Kirby            | [Certificate (PDF)](./con-kirby-certificate-jentic.pdf)            |
+| Conor McLeod         | [Certificate (PDF)](./conor-mcleod-certificate-jentic.pdf)         |
+| Daniel Delattre      | [Certificate (PDF)](./daniel-delattre-certificate-jentic.pdf)      |
+| Edwin Shibu Mathew   | [Certificate (PDF)](./edwin-shibu-mathew-certificate-jentic.pdf)   |
+| Evan Sonin           | [Certificate (PDF)](./evan-sonin-certificate-jentic.pdf)           |
+| Fintan O’Byrne       | [Certificate (PDF)](./fintan-o-byrne-certificate-jentic.pdf)       |
+| Gavin Holahan        | [Certificate (PDF)](./gavin-holahan-certificate-jentic.pdf)        |
+| Henrique de Carvalho | [Certificate (PDF)](./henrique-de-carvalho-certificate-jentic.pdf) |
+| Ivo Brett            | [Certificate (PDF)](./ivo-brett-certificate-jentic.pdf)            |
+| Ivo Garais           | [Certificate (PDF)](./ivo-garais-certificate-jentic.pdf)           |
+| Jack O’Brien         | [Certificate (PDF)](./jack-obrien-certificate-jentic.pdf)          |
+| Jude McCrea          | [Certificate (PDF)](./jude-mccrea-certificate-jentic.pdf)          |
+| Juilan Schnitzler    | [Certificate (PDF)](./juilan-schnitzler-certificate-jentic.pdf)    |
+| Jurgen Leschner      | [Certificate (PDF)](./jurgen-leschner-certificate-jentic.pdf)      |
+| Lalith Varanasi      | [Certificate (PDF)](./lalith-varanasi-certificate-jentic.pdf)      |
+| Lucas Quintanilla    | [Certificate (PDF)](./lucas-quintanilla-certificate-jentic.pdf)    |
+| Maccollins Obijiaku  | [Certificate (PDF)](./maccollins-obijiaku-certificate-jentic.pdf)  |
+| Marjia Siddik        | [Certificate (PDF)](./marjia-siddik-certificate-jentic.pdf)        |
+| Mayank Sehrawat      | [Certificate (PDF)](./mayank-sehrawat-certificate-jentic.pdf)      |
+| Mayowa Akinlude      | [Certificate (PDF)](./mayowa-akinlude-certificate-jentic.pdf)      |
+| Niall Harrington     | [Certificate (PDF)](./niall-harrington-certificate-jentic.pdf)     |
+| Niveditha Thota      | [Certificate (PDF)](./niveditha-thota-certificate-jentic.pdf)      |
+| Oliver Hamilton      | [Certificate (PDF)](./oliver-hamilton-certificate-jentic.pdf)      |
+| Petr Pershin         | [Certificate (PDF)](./petr-pershin-certificate-jentic.pdf)         |
+| Pragya Tiwari        | [Certificate (PDF)](./pragya-tiwari-certificate-jentic.pdf)        |
+| Prakash Inani        | [Certificate (PDF)](./prakash-inani-certificate-jentic.pdf)        |
+| Pranav Ahire         | [Certificate (PDF)](./pranav-ahire-certificate-jentic.pdf)         |
+| Robert Ross          | [Certificate (PDF)](./robert-ross-certificate-jentic.pdf)          |
+| Rowan Molony         | [Certificate (PDF)](./rowan-molony-certificate-jentic.pdf)         |
+| Samson Oloruntola    | [Certificate (PDF)](./samson-oloruntola-certificate-jentic.pdf)    |
+| Sanidhya Arora       | [Certificate (PDF)](./sanidhya-arora-certificate-jentic.pdf)       |
+| Sebastian Kimmel     | [Certificate (PDF)](./sebastian-kimmel-certificate-jentic.pdf)     |
+| Sebastian Konefal    | [Certificate (PDF)](./sebastian-konefal-certificate-jentic.pdf)    |
+| Shuangning Wei       | [Certificate (PDF)](./shuangning-wei-certificate-jentic.pdf)       |
+| Shubbham Gupta       | [Certificate (PDF)](./shubbham-gupta-certificate-jentic.pdf)       |
+| Shubham Dalvi        | [Certificate (PDF)](./shubham-dalvi-certificate-jentic.pdf)        |
+| Steven Sim           | [Certificate (PDF)](./steven-sim-certificate-jentic.pdf)           |
+| Thomas Nolan         | [Certificate (PDF)](./thomas-nolan-certificate-jentic.pdf)         |
+| Tianyi Lin           | [Certificate (PDF)](./tianyi-lin-certificate-jentic.pdf)           |
+| Tyler Brady          | [Certificate (PDF)](./tyler-brady-certificate-jentic.pdf)          |
+| Yifan Chen           | [Certificate (PDF)](./yifan-chen-certificate-jentic.pdf)           |
+| Yuanhui Xu           | [Certificate (PDF)](./yuanhui-xu-certificate-jentic.pdf)           |
+| Yuwei Lin            | [Certificate (PDF)](./yuwei-lin-certificate-jentic.pdf)            |
+
 
 > ⚠️ If any link 404s, the file might be pending push or there’s a small filename mismatch. See **Corrections**.
 
